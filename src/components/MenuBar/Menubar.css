@@ -3,6 +3,10 @@ nav{
     padding: 10px;
     background-color: black;
 }
+nav button{
+    border: none;
+    background: transparent;
+}
 .link{
     color: white;
     font-size: 20px;
