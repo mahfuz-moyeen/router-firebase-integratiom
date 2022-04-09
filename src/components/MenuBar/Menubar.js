@@ -6,6 +6,7 @@ const Menubar = () => {
     return (
        <nav >
            <CustomLink className='link' to="/">Home</CustomLink>
+            <CustomLink className='link' to="/register">Register</CustomLink>
             <CustomLink className='link' to="/login">Login</CustomLink>
        </nav>
     );
